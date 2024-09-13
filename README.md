@@ -7,7 +7,6 @@ module "my_ec2_instance" {
 
     ec2_instance_type = "t2.micro"
     ec2_instance_name = "My instance"
-    ec2_no_of_instance = 1
     ec2_ami_id = < Provide your AMI ID >
 
 }
