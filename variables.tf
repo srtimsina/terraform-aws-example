@@ -9,11 +9,6 @@ variable "ec2_instance_name" {
 
 }
 
-variable "ec2_no_of_instance" {
-  type = number
-
-}
-
 variable "ec2_ami_id" {
   type = string
 }
