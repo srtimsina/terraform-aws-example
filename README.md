@@ -1,6 +1,7 @@
 # My terraform module
 
 ## Usage
+Example usage:
 ~~~
 module "my_ec2_instance" {
   source = "github.com/srtimsina/tf-module-example"
